@@ -52,7 +52,10 @@ For more information, please refer to the official documentation of the technolo
 
 ## 📷 Screenshots
 
-> _Add screenshots of your homepage and a blog detail page here for visual overview._
+![Screenshot 2025-07-09 145414](https://github.com/user-attachments/assets/b583b2e6-18f9-4ed0-901b-95da0a3c5191)
+![Screenshot 2025-07-09 145457](https://github.com/user-attachments/assets/69f0b0ec-09e5-47ad-94aa-05a9156a08c5)
+![Screenshot 2025-07-09 145526](https://github.com/user-attachments/assets/3c120093-a5ae-4d1a-ac5a-9a457e34504b)
+
 
 ---
 
